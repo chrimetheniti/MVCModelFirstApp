@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\capability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\capability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\_christina_\\source\\repos\\cf9\\mvcmodelfirstwebapp\\schoolapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:43:40.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Role.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Role.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:42:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capability.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Capability.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Capability.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Capability.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Capability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:42:26.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:41:30.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAANZ2ZmZmYUwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:41:03.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:40:03.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\_christina_\\source\\repos\\CF9\\MVCModelFirstWebApp\\SchoolApp\\Models\\User.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:38:30.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
